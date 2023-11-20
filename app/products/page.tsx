@@ -26,6 +26,7 @@ const Product = async () => {
 
    return (
       <div>
+         <h1 className="text-center font-bold">Store Kita</h1>
          <div className="mb-2">
             <AddProduct brands={brands} />
          </div>
